@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     'whitenoise.runserver_nostatic',
     'widget_tweaks',
     'app_accounting',
+    'app_extention',
 ]
 
 MIDDLEWARE = [
